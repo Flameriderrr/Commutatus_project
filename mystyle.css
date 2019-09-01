@@ -75,9 +75,9 @@ body, html {
   font-size: 35px;*/
   border: 10px solid #e6e600;
   position: fixed; /* Stay fixed */
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 10%;
+  left: 10%;
+  transform: translate(-0%, -0%);
   z-index: 2;
   width: 80vw;
   padding: 20px;
@@ -92,8 +92,8 @@ body, html {
 .skills {
   text-align: right; /* Right-align text */
 
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
+  padding-top: 5px; /* Add top padding */
+  padding-bottom: 5px; /* Add bottom padding */
   color: white; /* White text color */
 }
 
@@ -109,7 +109,7 @@ body, html {
 }
 
 .cert-body {
-  font-size: 25px;
+  font-size: 20px;
   color: #000000;
 }
 
